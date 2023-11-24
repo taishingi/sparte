@@ -1,0 +1,11 @@
+[package]
+name = "sparte"
+version = "0.0.2"
+edition = "2021"
+description = "Helpers for scientific calculs"
+license = "GPL-2.0-or-later"
+categories = ["development-tools"]
+        
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
